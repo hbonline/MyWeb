@@ -49,7 +49,7 @@ a {
 
 .btn:hover {
     background-color: #E04F00;
-    color: #fff;
+    color: white;
 }
 
 .btn:focus {
@@ -118,7 +118,8 @@ a:hover {
     position: relative;
     background-image: url(../img/cover.jpg);
     background-size: cover;
-    padding: 150px 0;
+    /*padding: 150px 200px;*/
+    /*padding: 75px 0;*/
     color: #fff;
     width: 100%;
     height: 100vh;
@@ -959,17 +960,13 @@ body.mobile-nav-active #mobile-nav-toggle {
         margin-bottom: 35px;
     }
 
-    .tagline {
-        margin: 35px 0;
-    }
 
     h1 {
         font-size: 32px;
         margin: 0;
     }
 
-    h2,
-    .tagline {
+    h2 {
         font-size: 24px;
     }
 
@@ -979,10 +976,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
     h3 {
         font-size: 14px;
-    }
-
-    .hero {
-        padding: 75px 0;
     }
 
     .stats-col {
