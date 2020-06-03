@@ -18,41 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bell/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bell/bell/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13960">
-              <caret line="698" column="1" selection-start-line="698" selection-start-column="1" selection-end-line="698" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12640">
-              <caret line="632" column="1" selection-start-line="632" selection-start-column="1" selection-end-line="632" selection-end-column="1" />
+            <state relative-caret-position="349">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -60,17 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="1030" column="14" selection-start-line="1030" selection-start-column="14" selection-end-line="1030" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bell/text.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+            <state relative-caret-position="289">
+              <caret line="958" column="5" selection-start-line="958" selection-start-column="5" selection-end-line="958" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -134,8 +92,8 @@
         <option value="$PROJECT_DIR$/bell/html/product-1.html" />
         <option value="$PROJECT_DIR$/bell/text.html" />
         <option value="$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/bell/index.html" />
         <option value="$PROJECT_DIR$/bell/css/style.css" />
+        <option value="$PROJECT_DIR$/bell/index.html" />
       </list>
     </option>
   </component>
@@ -230,7 +188,8 @@
       <workItem from="1590400051473" duration="313000" />
       <workItem from="1590479538528" duration="9943000" />
       <workItem from="1590673782706" duration="616000" />
-      <workItem from="1590680069281" duration="2126000" />
+      <workItem from="1590680069281" duration="2364000" />
+      <workItem from="1591188475649" duration="988000" />
     </task>
     <task id="LOCAL-00001" summary="original">
       <created>1590487257587</created>
@@ -260,16 +219,30 @@
       <option name="project" value="LOCAL" />
       <updated>1590547265117</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="简化">
+      <created>1590682285114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590682285114</updated>
+    </task>
+    <task id="LOCAL-00006" summary="简化">
+      <created>1590682299559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590682299559</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83770000" />
+    <option name="totallyTimeSpent" value="84722000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20907739" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20864068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,7 +254,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="SVN Repositories" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -334,7 +307,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="original" />
-    <option name="LAST_COMMIT_MESSAGE" value="original" />
+    <MESSAGE value="简化" />
+    <option name="LAST_COMMIT_MESSAGE" value="简化" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/蓝色机械制造公司网站模板/trends.html" />
@@ -359,13 +333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-946">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -400,53 +367,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bell/img/porf-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/bell/bell/css/style.css">
+    <entry file="file://$PROJECT_DIR$/bell/bell/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/bell/text.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13960">
-          <caret line="698" column="1" selection-start-line="698" selection-start-column="1" selection-end-line="698" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12640">
-          <caret line="632" column="1" selection-start-line="632" selection-start-column="1" selection-end-line="632" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bell/text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        <state relative-caret-position="180">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bell/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="1030" column="14" selection-start-line="1030" selection-start-column="14" selection-end-line="1030" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="958" column="5" selection-start-line="958" selection-start-column="5" selection-end-line="958" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bell/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="349">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
