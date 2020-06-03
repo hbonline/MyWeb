@@ -7,7 +7,9 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="山东,东营,云天,软件,科技" name="keywords">
     <meta content="门户网站" name="description">
-    <meta http-equiv="Content-Type" Content="text/html; Charset=gb2312">
+    <!--    <meta http-equiv="Content-Type" Content="text/html; Charset=gb2312">-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <!-- Bootstrap CSS File -->
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Libraries CSS Files -->
@@ -42,8 +44,6 @@
     <div class="container">
         <div id="logo" class="pull-left">
             <a href="index.html"><img src="img/logo-nav.png" alt="云天软件" title="云天软件"/></a>
-            <!-- Uncomment below if you prefer to use a text image -->
-            <!--<h1><a href="#hero">Bell</a></h1>-->
         </div>
 
         <nav id="nav-menu-container">
@@ -56,7 +56,6 @@
                 <li><a href="#contact">联系我们</a></li>
             </ul>
         </nav>
-        <!-- #nav-menu-container -->
 
         <nav class="nav social-nav pull-right d-none d-lg-inline">
             <a href="http://wpa.qq.com/msgrd?v=3&uin=1766462544&site=qq&menu=yes"><i class="fa fa-qq"></i></a>
@@ -69,13 +68,12 @@
 <!-- #header -->
 
 <!-- About -->
-
 <section class="about" id="about">
     <div class="container text-center">
         <h2>
             关于我们
         </h2>
-        <p align="left">
+        <p class="text-left">
             &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp山东云天软件有限公司于2016年在东营软件园注册，公司成立以来一直专注于企业信息化基础架构、网站安全、数据中心私有云、数据容灾备份、云财务系统、云桌面办公等企业的数字化领域，具有大量的实施案例和解决方案，年营业额均超1000万，为不同群体的用户提供更专业优质的服务。<br/>
             &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp多年以来我公司始终坚持“持续创新、专业奋斗”的核心价值观，打造了一支技术精湛的团队，公司员工拥有VMware、华为、华三、深信服等厂商的高级工程师认证，具有10多年行业经验，为公司发展提供了可持续的技术创新能力与保障。
         </p>
@@ -115,123 +113,130 @@
         </h2>
 
         <div class="row">
-            <div class="feature-col col-lg-4 col-xs-12">
-                <div class="card card-block text-center">
-                    <div>
-                        <div class="feature-icon">
-                            <span class="fa fa-server"></span>
+            <div class="col-lg-4 col-md-6 col-xs-12 feature-col">
+                <div class="card text-center" style="width: 18rem;">
+                    <div class="card-body">
+                        <div>
+                            <div class="feature-icon">
+                                <span class="fa fa-server"></span>
+                            </div>
                         </div>
-                    </div>
 
-                    <div>
-                        <h3>
-                            虚拟化数据中心
-                        </h3>
+                        <div>
+                            <h3>
+                                虚拟化数据中心
+                            </h3>
 
-                        <p>
-                            基于VMware虚拟化技术,提高服务器利用率、集群性能和系统的可靠性。
-                        </p>
+                            <p>
+                                基于VMware虚拟化技术,提高服务器利用率、集群性能和系统的可靠性。
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <div class="feature-col col-lg-4 col-xs-12">
-                <div class="card card-block text-center">
-                    <div>
-                        <div class="feature-icon">
-                            <span class="fa fa-cloud"></span>
+            <div class="col-lg-4 col-md-6 col-xs-12 feature-col">
+                <div class="card text-center"  style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <div class="feature-icon">
+                                <span class="fa fa-cloud"></span>
+                            </div>
                         </div>
-                    </div>
-
-                    <div>
-                        <h3>
-                            私有云管理平台
-                        </h3>
-
-                        <p>
-                            “托管式专用”模式,支持一个公司企业数据中心内的专用云。
-                        </p>
+                        <div>
+                            <h3>
+                                私有云管理平台
+                            </h3>
+                            <p>
+                                “托管式专用”模式,支持一个公司企业数据中心内的专用云。
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <div class="feature-col col-lg-4 col-xs-12">
-                <div class="card card-block text-center">
-                    <div>
-                        <div class="feature-icon">
-                            <span class="fa fa-database"></span>
+            <div class="col-lg-4 col-md-6 col-xs-12 feature-col">
+                <div class="card text-center"  style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <div class="feature-icon">
+                                <span class="fa fa-database"></span>
+                            </div>
                         </div>
-                    </div>
+                        <div>
+                            <h3>
+                                数据中心智能计算
+                            </h3>
 
-                    <div>
-                        <h3>
-                            数据中心智能计算
-                        </h3>
-
-                        <p>
-                            服务器、存储、超融合一体机、数据备份、数据持续性保护。
-                        </p>
+                            <p>
+                                服务器、存储、超融合一体机、数据备份、数据持续性保护。
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
         <div class="row">
-            <div class="feature-col col-lg-4 col-xs-12">
-                <div class="card card-block text-center">
-                    <div>
-                        <div class="feature-icon">
-                            <span class="fa fa-connectdevelop"></span>
+            <div class="col-lg-4 col-md-6 col-xs-12 feature-col">
+                <div class="card text-center" style="width: 18rem;">
+                    <div class="card-body">
+                        <div>
+                            <div class="feature-icon">
+                                <span class="fa fa-server"></span>
+                            </div>
                         </div>
-                    </div>
-                    <div>
-                        <h3>
-                            企业网络设备
-                        </h3>
 
-                        <p>
-                            交换机、路由器、防火墙、安全感知平台、审计设备、堡垒机、网管平台。
-                        </p>
+                        <div>
+                            <h3>
+                                企业网络设备
+                            </h3>
+
+                            <p>
+                                交换机、路由器、防火墙、安全感知平台、审计设备、堡垒机、网管平台。
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <div class="feature-col col-lg-4 col-xs-12">
-                <div class="card card-block text-center">
-                    <div>
-                        <div class="feature-icon">
-                            <span class="fa fa-bar-chart"></span>
+            <div class="col-lg-4 col-md-6 col-xs-12 feature-col">
+                <div class="card text-center"  style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <div class="feature-icon">
+                                <span class="fa fa-cloud"></span>
+                            </div>
                         </div>
-                    </div>
-
-                    <div>
-                        <h3>
-                            小型企业管理软件
-                        </h3>
-
-                        <p>
-                            企业财务、内控、无接触式网络报销、企业邮箱系统、ERP等方面。
-                        </p>
+                        <div>
+                            <h3>
+                                小型企业管理软件
+                            </h3>
+                            <p>
+                                企业财务、内控、无接触式网络报销、企业邮箱系统、ERP等方面。
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <div class="feature-col col-lg-4 col-xs-12">
-                <div class="card card-block text-center">
-                    <div>
-                        <div class="feature-icon">
-                            <span class="fa fa-android"></span>
+            <div class="col-lg-4 col-md-6 col-xs-12 feature-col">
+                <div class="card text-center"  style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <div class="feature-icon">
+                                <span class="fa fa-database"></span>
+                            </div>
                         </div>
-                    </div>
+                        <div>
+                            <h3>
+                                IT服务
+                            </h3>
 
-                    <div>
-                        <h3>
-                            IT服务
-                        </h3>
-
-                        <p>
-                            手机APP、门户网站开发、IT基础架构咨询、信息系统运维。
-                        </p>
+                            <p>
+                                手机APP、门户网站开发、IT基础架构咨询、信息系统运维。
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -269,7 +274,7 @@
             案例
         </h2>
 
-        <p align="left">
+        <p class="text-left">
             &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp最好的产品、最好的服务、最好的信誉，我公司已在财政、税务、公用事业、化工企业等诸多领域取得辉煌成绩，为了真正满足企业需求，企业特聘请各行业专家作为咨询顾问，紧密跟踪国内外信息化领域前沿技术水平，形成标准化服务网络体系，向企业提供创新支持，令用户得到最优质的服务和最好的投资回报。
         </p>
     </div>
@@ -286,7 +291,7 @@
                                     虚拟化数据中心
                                 </h3>
 
-                                <p class="card-text">
+                                <p class="card-text" >
                                     虚拟化数据中心。
                                 </p>
                             </div>
@@ -388,54 +393,54 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-1.png">
+            <div class="col-lg-2 text-center ptn-div">
+                <a href="http://www.dell.com"><img alt="" class="partner-img" src="img/partner-1.png">
                 </a>
             </div>
-            <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-2.png">
+            <div class="col-lg-2 text-center ptn-div">
+                <a href="https://www.delltechnologies.com"><img alt="" class="partner-img" src="img/partner-2.png">
                 </a>
             </div>
-            <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-3.png">
+            <div class="col-lg-2 text-center ptn-div">
+                <a href="https://www.sangfor.com.cn/"><img alt="" class="partner-img" src="img/partner-3.png">
                 </a>
             </div>
-            <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-4.png">
+            <div class="col-lg-2 text-center ptn-div">
+                <a href="https://www.huawei.com/cn"><img alt="" class="partner-img" src="img/partner-4.png">
                 </a>
             </div>
-            <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-5.png">
+            <div class="col-lg-2 text-center ptn-div">
+                <a href="https://www.h3c.com/cn/"><img alt="" class="partner-img" src="img/partner-5.png">
                 </a>
             </div>
-            <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-6.png">
+            <div class="col-lg-2 text-center ptn-div">
+                <a href="https://www.lenovo.com.cn/"><img alt="" class="partner-img" src="img/partner-6.png">
                 </a>
             </div>
         </div>
         <div class="row ">
             <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-7.png">
+                <a href="http://welcome.hp.com/country/cn/zh/cs/home.html"><img alt="" class="partner-img" src="img/partner-7.png">
                 </a>
             </div>
             <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-8.png">
+                <a href="https://www.vmware.com/"><img alt="" class="partner-img" src="img/partner-8.png">
                 </a>
             </div>
             <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-9.png">
+                <a href="https://www.qingcloud.com/"><img alt="" class="partner-img" src="img/partner-9.png">
                 </a>
             </div>
             <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-10.png">
+                <a href="https://www.zstack.io/"><img alt="" class="partner-img" src="img/partner-10.png">
                 </a>
             </div>
             <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-11.png">
+                <a href="https://www.aishu.cn/"><img alt="" class="partner-img" src="img/partner-11.png">
                 </a>
             </div>
             <div class="col-lg-2 text-center">
-                <a href="#"><img alt="" class="partner-img" src="img/partner-12.png">
+                <a href="https://www.inspur.com/"><img alt="" class="partner-img" src="img/partner-12.png">
                 </a>
             </div>
         </div>
@@ -532,7 +537,7 @@
                         </li>
 
                         <li class="list-inline-item">
-                            <a href="#about">关于云天</a>
+                            <a href="#about">关于我们</a>
                         </li>
 
                         <li class="list-inline-item">
@@ -544,7 +549,7 @@
                         </li>
 
                         <li class="list-inline-item">
-                            <a href="#team">团队</a>
+                            <a href="#team">公司风貌</a>
                         </li>
                         <li class="list-inline-item">
                             <a href="#partner">合作伙伴</a>

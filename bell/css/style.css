@@ -624,6 +624,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 25px;
 }
 
+/*.portfolio p {*/
+/*    text-align: center;*/
+/*}*/
+
 .portfolio-grid {
     margin-top: 35px;
 }
@@ -793,11 +797,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     /*margin: 10px;*/
 }
 
-.partner div {
-    /*border: 1px solid red;*/
-    margin-bottom: 10px;
-}
 
+.ptn-div{
+    padding-bottom: 45px;
+}
 
 /* ==================================================
   Contact Section
@@ -1024,7 +1027,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     }
 }
 
-.section-test{
+.section-test {
     border: 1px solid red;
     padding: 10px 100px;
 }
