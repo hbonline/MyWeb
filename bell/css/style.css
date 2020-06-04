@@ -629,11 +629,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*}*/
 
 .portfolio-grid {
-    margin-top: 35px;
+    margin-top: 25px;
 }
 
 .portfolio-grid .row {
-    margin: 30px;
+    margin: 15px;
 }
 
 .portfolio-grid .row > div {
