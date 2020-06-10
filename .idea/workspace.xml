@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="148e7145-a460-4de6-9e29-53938b78c544" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bell/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/bell/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bell/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bell/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bell/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,20 +18,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="205">
+              <caret line="529" column="113" lean-forward="true" selection-start-line="529" selection-start-column="55" selection-end-line="529" selection-end-column="113" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="8307" column="1" selection-start-line="8307" selection-start-column="1" selection-end-line="8307" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bell/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="958" column="5" selection-start-line="958" selection-start-column="5" selection-end-line="958" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="888" column="17" selection-start-line="888" selection-start-column="17" selection-end-line="888" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -44,10 +72,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>contact</find>
-      <find>line-height</find>
-      <find>col-md-12</find>
-      <find>intr</find>
       <find>hero-brand</find>
       <find>font</find>
       <find>portfolio-grid</find>
@@ -74,6 +98,10 @@
       <find>about</find>
       <find>.hero</find>
       <find>.btn,.btn-ful</find>
+      <find>team</find>
+      <find>block</find>
+      <find>portfolio-over</find>
+      <find>bell</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,10 +118,10 @@
         <option value="$PROJECT_DIR$/bell家/bell/index.html" />
         <option value="$PROJECT_DIR$/bell家/bell/text.html" />
         <option value="$PROJECT_DIR$/bell/html/product-1.html" />
-        <option value="$PROJECT_DIR$/bell/text.html" />
         <option value="$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/bell/css/style.css" />
+        <option value="$PROJECT_DIR$/bell/text.html" />
         <option value="$PROJECT_DIR$/bell/index.html" />
+        <option value="$PROJECT_DIR$/bell/css/style.css" />
       </list>
     </option>
   </component>
@@ -116,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,7 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +169,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,6 +218,8 @@
       <workItem from="1590673782706" duration="616000" />
       <workItem from="1590680069281" duration="2364000" />
       <workItem from="1591188475649" duration="988000" />
+      <workItem from="1591255877223" duration="595000" />
+      <workItem from="1591687290513" duration="579000" />
     </task>
     <task id="LOCAL-00001" summary="original">
       <created>1590487257587</created>
@@ -233,16 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1590682299559</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="调整图片格式、IE兼容性">
+      <created>1591240878976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591240878976</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84722000" />
+    <option name="totallyTimeSpent" value="94625000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20864068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20907739" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,7 +292,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="SVN Repositories" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -308,7 +345,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="original" />
     <MESSAGE value="简化" />
-    <option name="LAST_COMMIT_MESSAGE" value="简化" />
+    <MESSAGE value="调整图片格式、IE兼容性" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整图片格式、IE兼容性" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/蓝色机械制造公司网站模板/trends.html" />
@@ -354,7 +392,13 @@
     <entry file="file://$PROJECT_DIR$/bell/img/team-1.jpg" />
     <entry file="file://$PROJECT_DIR$/bell/img/parallax-bg.jpg" />
     <entry file="file://$PROJECT_DIR$/bell/html/product-1.html" />
-    <entry file="file://$PROJECT_DIR$/bell/lib/font-awesome/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/bell/lib/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="1318" selection-start-line="3" selection-start-column="1318" selection-end-line="3" selection-end-column="1318" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/蓝色科技集团公司响应式网站模板/css/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.css" />
     <entry file="file://$USER_HOME$/Desktop/css.css" />
@@ -367,9 +411,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bell/img/porf-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/bell/bell/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/bell/text.html" />
+    <entry file="file://$PROJECT_DIR$/bell/bell/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13960">
+          <caret line="698" column="1" selection-start-line="698" selection-start-column="1" selection-end-line="698" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -377,17 +425,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bell/css/style.css">
+    <entry file="file://$PROJECT_DIR$/bell/text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="958" column="5" selection-start-line="958" selection-start-column="5" selection-end-line="958" selection-end-column="5" />
+        <state relative-caret-position="353">
+          <caret line="31" selection-start-line="31" selection-end-line="88" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bell/lib/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8307" column="1" selection-start-line="8307" selection-start-column="1" selection-end-line="8307" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bell/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="205">
+          <caret line="529" column="113" lean-forward="true" selection-start-line="529" selection-start-column="55" selection-end-line="529" selection-end-column="113" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bell/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="888" column="17" selection-start-line="888" selection-start-column="17" selection-end-line="888" selection-end-column="32" />
         </state>
       </provider>
     </entry>

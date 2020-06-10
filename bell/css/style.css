@@ -886,7 +886,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 0;
 }
 
-.site-footer h2, .site-footer p {
+.site-footer h2, .site-footer p , .site-footer a{
     color: #fff;
 }
 
